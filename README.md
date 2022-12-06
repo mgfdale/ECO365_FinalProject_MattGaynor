@@ -20,7 +20,7 @@ In short, the `MASTERWEBSITE.R` script file is dependent on the `Smash R Stats.R
 
 The `smash_df.csv` is a dataframe created from the `Smash R Stats.R` script file. The `MASTERWEBSITE.R` script file utilizes this `smash_df.csv` file as well. 
 
-All other files within the folder are jpeg/png image files that are called on in the `MASTERWEBSITE.R` script file. However, the website will still compile if these images are not downloaded (the website just won't look great).
+All other files within the folder are jpeg/png image files that are called on in the `MASTERWEBSITE.R` script file. The website will still compile if these images are not downloaded (the website just won't look great).
 
 
 
