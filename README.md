@@ -10,3 +10,6 @@ More specifically, all of the numbers present are based on the most recent game 
 The first tab of the website is focused on a *general overview* of *key statistics*, followed by other tabs relating to more in depth analyses of specific technical data.
 
 The purpose of each tab is to give its reader a better idea of what character is best to play as based on their own fighting style and/or preferences.
+
+
+# How Can I Run This?
