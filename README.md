@@ -2,3 +2,4 @@
 Super Smash Brothers Ultimate Data Website
 
 # Description
+`yes`
