@@ -11,6 +11,12 @@ The first tab of the website is focused on a *general overview* of *key statisti
 
 The purpose of each tab is to give its reader a better idea of what character is best to play as based on their own fighting style and/or preferences.
 
+# Folder Content
+The `MASTERWEBSITE.R`,`Smash R Stats.R`, and `smash_df.csv` script/csv files are essential to download if you are trying to run this website on your own machine. The `MASTERWEBSITE.R` script file contains all of the front-end and back-end code that compiles the website. The `Smash R Stats.R` script file contains code that pulls data/webscrapes numbers from online about the game. In short, the `MASTERWEBSITE.R` script file is dependent on the `Smash R Stats.R` script file. The `smash_df.csv` is a dataframe created from the `Smash R Stats.R` script file. The `MASTERWEBSITE.R` script file utilizes this `smash_df.csv` file as well. 
+
+
+
+
 
 # How Can I Run This?
 There are two ways in which it is possible to view this website:
@@ -20,8 +26,3 @@ There are two ways in which it is possible to view this website:
 2) (The easier step/you do not need to download anything) Click this link: https://gaynmf.shinyapps.io/ECO_365_Final_Project_Matthew_Gaynor/?_ga=2.240281027.1303197376.1670358623-566613146.1670358623  - It will automatically launch the website in your browser 
 
 
-
-
-
-# Folder Content
-here describe the files in depth
